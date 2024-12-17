@@ -1,0 +1,28 @@
+Year,Event,Category,Impact_Score,International_Significance
+1970,Indian Banks Nationalization,Economic,8,False
+1971,Indo-Pakistani War & Bangladesh Liberation,Military,10,True
+1972,Shimla Agreement Signed with Pakistan,Diplomatic,7,True
+1974,First Nuclear Test (Smiling Buddha),Scientific,9,True
+1975,Emergency Declared by Indira Gandhi,Political,10,True
+1976,42nd Constitutional Amendment Act,Legal,8,False
+1977,Janata Party Defeats Congress,Political,9,False
+1979,Mother Teresa wins Nobel Peace Prize,Cultural,7,True
+1980,Return of Indira Gandhi to Power,Political,8,False
+1981,Asian Games hosted in New Delhi,Sports,6,True
+1983,India wins Cricket World Cup,Sports,7,True
+1984,Operation Blue Star & Indira Gandhi Assassination,Political,10,True
+1985,Rajiv Gandhi becomes Prime Minister,Political,8,False
+1986,Environmental Protection Act Passed,Legal,7,False
+1987,Indian Peace Keeping Force sent to Sri Lanka,Military,8,True
+1988,National Literacy Mission Launched,Social,7,False
+1989,First Coalition Government at Centre,Political,8,False
+1990,Mandal Commission Implementation,Social,9,False
+1991,Economic Liberalization Begins,Economic,10,True
+1992,Babri Masjid Demolition,Social,9,True
+1993,Mumbai Stock Exchange Bombing,Security,8,True
+1994,Plague Outbreak in Surat,Health,7,False
+1995,India joins WTO,Economic,8,True
+1996,13-Day Government of Vajpayee,Political,7,False
+1997,50 Years of Independence Celebrated,Cultural,6,True
+1998,Pokhran-II Nuclear Tests,Military,9,True
+1999,Kargil War with Pakistan,Military,10,True
